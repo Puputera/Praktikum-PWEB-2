@@ -6,6 +6,7 @@
 </head>
 <body>
     <?php
+        //menampilkan di layar
         echo "Hello, World!";
     ?>
 </body>
